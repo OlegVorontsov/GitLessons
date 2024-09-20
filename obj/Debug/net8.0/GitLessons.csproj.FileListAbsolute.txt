@@ -1,0 +1,14 @@
+c:\Users\admin\source\repos\GitLessons\bin\Debug\net8.0\GitLessons.exe
+c:\Users\admin\source\repos\GitLessons\bin\Debug\net8.0\GitLessons.deps.json
+c:\Users\admin\source\repos\GitLessons\bin\Debug\net8.0\GitLessons.runtimeconfig.json
+c:\Users\admin\source\repos\GitLessons\bin\Debug\net8.0\GitLessons.dll
+c:\Users\admin\source\repos\GitLessons\bin\Debug\net8.0\GitLessons.pdb
+c:\Users\admin\source\repos\GitLessons\obj\Debug\net8.0\GitLessons.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\admin\source\repos\GitLessons\obj\Debug\net8.0\GitLessons.AssemblyInfoInputs.cache
+c:\Users\admin\source\repos\GitLessons\obj\Debug\net8.0\GitLessons.AssemblyInfo.cs
+c:\Users\admin\source\repos\GitLessons\obj\Debug\net8.0\GitLessons.csproj.CoreCompileInputs.cache
+c:\Users\admin\source\repos\GitLessons\obj\Debug\net8.0\GitLessons.dll
+c:\Users\admin\source\repos\GitLessons\obj\Debug\net8.0\refint\GitLessons.dll
+c:\Users\admin\source\repos\GitLessons\obj\Debug\net8.0\GitLessons.pdb
+c:\Users\admin\source\repos\GitLessons\obj\Debug\net8.0\GitLessons.genruntimeconfig.cache
+c:\Users\admin\source\repos\GitLessons\obj\Debug\net8.0\ref\GitLessons.dll
