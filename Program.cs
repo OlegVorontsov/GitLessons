@@ -1,10 +1,11 @@
-﻿namespace GitLessons;
-
-class Program
+﻿namespace GitLessons
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Change name");
-        Console.WriteLine("Home branch");
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Change name");
+            Console.WriteLine("Change some");
+        }
     }
 }

@@ -12,3 +12,4 @@ c:\Users\admin\source\repos\GitLessons\obj\Debug\net8.0\refint\GitLessons.dll
 c:\Users\admin\source\repos\GitLessons\obj\Debug\net8.0\GitLessons.pdb
 c:\Users\admin\source\repos\GitLessons\obj\Debug\net8.0\GitLessons.genruntimeconfig.cache
 c:\Users\admin\source\repos\GitLessons\obj\Debug\net8.0\ref\GitLessons.dll
+C:\Users\admin\source\repos\GitLessons\obj\Debug\net8.0\GitLessons.sourcelink.json
