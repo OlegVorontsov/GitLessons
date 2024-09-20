@@ -5,6 +5,6 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Change name");
-        Console.WriteLine("Message added");
+        Console.WriteLine("Home branch");
     }
 }
