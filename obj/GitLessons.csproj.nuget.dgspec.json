@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\admin\\source\\repos\\GitLessons\\GitLessons.csproj": {}
+    "C:\\Users\\admin\\source\\repos\\GitLessons\\GitLessons.csproj": {}
   },
   "projects": {
-    "c:\\Users\\admin\\source\\repos\\GitLessons\\GitLessons.csproj": {
+    "C:\\Users\\admin\\source\\repos\\GitLessons\\GitLessons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\admin\\source\\repos\\GitLessons\\GitLessons.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\source\\repos\\GitLessons\\GitLessons.csproj",
         "projectName": "GitLessons",
-        "projectPath": "c:\\Users\\admin\\source\\repos\\GitLessons\\GitLessons.csproj",
+        "projectPath": "C:\\Users\\admin\\source\\repos\\GitLessons\\GitLessons.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\admin\\source\\repos\\GitLessons\\obj\\",
+        "outputPath": "C:\\Users\\admin\\source\\repos\\GitLessons\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
