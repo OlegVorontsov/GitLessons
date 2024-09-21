@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Change name");
+            Console.WriteLine("dev4");
         }
     }
 }
